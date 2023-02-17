@@ -2,4 +2,6 @@ Meu primeiro sistema no GIT
 
 Alteração teste
 
-nova linha adicionada
+  
+Alteração feita no MASTER
+ 
